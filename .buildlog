@@ -1,0 +1,1305 @@
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [111 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [111 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [130 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [169 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [126 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [136 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart --changed=web/freecell.dart --changed=web/fr...
+
+build.dart finished [222 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [148 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/freecell.html
+
+build.dart finished [126 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [125 ms]
+
+---
+build.dart --machine --changed=pubspec.lock
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [119 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [118 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [121 ms]
+
+---
+build.dart --machine --changed=web/index.html --removed=web/freecell.html
+
+build.dart finished [122 ms]
+
+---
+build.dart --machine --changed=web/index.html
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [120 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [129 ms]
+
+---
+build.dart --machine --full
+
+build.dart finished [235 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [120 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [125 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=index.html --removed=web/index.html
+
+build.dart finished [119 ms]
+
+---
+build.dart --machine --changed=index.html
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/freecell.css
+
+build.dart finished [124 ms]
+
+---
+build.dart --machine --changed=index.html
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [226 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [156 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart --changed=web/models/Card.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [129 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [118 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [117 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [221 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [217 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [118 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [222 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [220 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [226 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [117 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [221 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [123 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [214 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [216 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [227 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [127 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [218 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [223 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [230 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [226 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [126 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [229 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [220 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [230 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [122 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [242 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [225 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [227 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [121 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [222 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [119 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [220 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [225 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [223 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [229 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [230 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [224 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [228 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [118 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [235 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [231 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [220 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [118 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [234 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [118 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [225 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [228 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [120 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [232 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [121 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [223 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [249 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [117 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [231 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [121 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [217 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [119 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [232 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [236 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [117 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [231 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [117 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [242 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [123 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [253 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [246 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [236 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [120 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [250 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [247 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [249 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [120 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [246 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [245 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [256 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [126 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [255 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [156 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [125 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [123 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [124 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [117 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [265 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/images/heart.jpg
+
+build.dart finished [127 ms]
+
+---
+build.dart --machine --changed=web/images/club.jpg
+
+build.dart finished [111 ms]
+
+---
+build.dart --machine --changed=web/images/diamond.jpg
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=web/images/spade.jpg
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [252 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [131 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=web/images/52-Individual-Color-Vector-Playing_Cards-1.3_(SVG-Format_Crop_Marks)/...
+
+build.dart finished [147 ms]
+
+---
+build.dart --machine --removed=web/images/club.jpg --removed=web/images/diamond.jpg --removed=web/images/heart....
+
+build.dart finished [146 ms]
+
+---
+build.dart --machine --changed=web/images/Clubs/10C.svg --changed=web/images/Clubs/2C.svg --changed=web/images/...
+
+build.dart finished [128 ms]
+
+---
+build.dart --machine --changed=web/images/Diamonds/10D.svg --changed=web/images/Diamonds/2D.svg --changed=web/i...
+
+build.dart finished [136 ms]
+
+---
+build.dart --machine --changed=web/images/Hearts/10H.svg --changed=web/images/Hearts/2H.svg --changed=web/image...
+
+build.dart finished [146 ms]
+
+---
+build.dart --machine --changed=web/images/Spades/10S.svg --changed=web/images/Spades/2S.svg --changed=web/image...
+
+build.dart finished [131 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [131 ms]
+
+---
+build.dart --machine --removed=web/images/Clubs/10C.svg --removed=web/images/Clubs/2C.svg --removed=web/images/...
+
+build.dart finished [122 ms]
+
+---
+build.dart --machine --changed=web/images/2_of_clubs.png
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/images/10_of_clubs.png --changed=web/images/10_of_diamonds.png --changed=web...
+
+build.dart finished [120 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [242 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [121 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [262 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [119 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [247 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [126 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [241 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [120 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [247 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [248 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [166 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [264 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [121 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [248 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [149 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [275 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [121 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [251 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [119 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [117 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [253 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [121 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [248 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [255 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [123 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [265 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [148 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [258 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [260 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [118 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [328 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart --changed=web/freecell.css --changed=web/vie...
+
+build.dart finished [256 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [135 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [246 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [120 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [255 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/freecell.css
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [249 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [128 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [118 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [121 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [128 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [134 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [111 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/controllers/MainController.dart --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [253 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [134 ms]
+
+---
+build.dart --machine --changed=web/freecell.css
+
+build.dart finished [121 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [114 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [112 ms]
+
+---
+build.dart --machine --changed=web/freecell.dart
+
+build.dart finished [159 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/models/Card.dart
+
+build.dart finished [113 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [241 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [124 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [250 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [115 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.xml
+
+build.dart finished [243 ms]
+
+---
+build.dart --machine --changed=web/views/FreeCellTemplate.uxl.dart
+
+build.dart finished [116 ms]
+
+---
+build.dart --machine --changed=README.md
+
+build.dart finished [120 ms]
+

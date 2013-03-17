@@ -1,0 +1,60 @@
+<?dart
+part of freecell;
+?>
+
+<Template name="FreeCellTemplate" args="cards">
+  <View layout="type: linear; orient: horizontal; spacing: 0" 
+  style="border: 1px solid #553; background-color: DarkGreen" 
+  profile="width: flex; height: flex" control="mainController: new MainController()">
+    
+
+    <View layout="type: linear; orient: vertical; spacing: 0"
+      style="border: 1px solid #553; background-color: DarkSeaGreen;   "
+      profile="width: 9%; height:flex">
+    </View>
+
+    <View layout="type: linear; orient: vertical; spacing: 0"
+      style="border: 1px solid #553; background-color: DarkKhaki;   "
+      profile="width: 2%; height:flex">
+    </View>
+
+    <Apply forEach="r = 0; r < 8; r++">
+    
+      <View layout="type: linear; orient: vertical; "
+        style="border: 1px solid #553; background-color: DarkGreen;"
+        profile="width: 9%; height:flex">
+        
+        <Apply forEach='c = 0; c < 7; c++'>
+            <Panel layout="type: linear;  "
+              style="background-color: DarkGreen"
+              profile = "width: 100%"
+             if="mainController.card(cards,r,c) != null">
+              <Image  src=${mainController.card(cards,r,c)} 
+                 style="width: 80%; height: 100%; margin-left: 20%; "/>
+            </Panel>
+        </Apply>
+      </View>
+      
+ 
+       <View if="r < 7" layout="type: linear; orient: vertical; spacing: 0"
+        style="border: 1px solid #553; background-color: DarkKhaki;   "
+        profile="width: 1%; height:flex">
+      </View>
+
+      
+    </Apply>    
+
+    <View layout="type: linear; orient: vertical; spacing: 0"
+      style="border: 1px solid #553; background-color: DarkKhaki;   "
+      profile="width: 2%; height:flex">
+    </View>
+
+    <View layout="type: linear; orient: vertical; spacing: 0"
+      style="border: 1px solid #553; background-color: DarkSeaGreen;   "
+      profile="width: 8%; height:flex">
+    </View>
+
+    
+    
+  </View>
+</Template>

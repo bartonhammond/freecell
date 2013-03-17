@@ -1,0 +1,6 @@
+name: freecell
+description: A sample web application
+dependencies:
+  rikulo_uxl: any
+  browser: any
+  rikulo_ui: any
